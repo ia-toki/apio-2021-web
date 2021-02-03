@@ -16,7 +16,7 @@ The schedule is tentative and will be confirmed at a later date.
   <tbody>
     <tr>
       <td><a href="registration">Leader Confirmation Deadline</a></td>
-      <td>Sunday, 14 March 2020</td>
+      <td>Sunday, 14 March 2021</td>
     </tr>
     <tr>
       <td><a href="call-for-tasks">Task Submission Deadline</a></td>
