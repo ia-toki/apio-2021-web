@@ -12,7 +12,7 @@ There are two contests:
 * Official: The eligible participants are the ones that are also eligible for the IOI 2021. The leaders of each eligible country to participate will register their participants for the APIO 2021. If you are a student wishing to compete, please contact your local informatics olympiad organization.
 * Open: Anybody who wants to join can take part in it.
 
-The contest will be held from TBC to TBC. The open contest will be held from TBC to TBC.
+The contest will be held from Saturday, 22 May 2021 to Sunday 23 May 2021. The open contest will be held from Tuesday, 25 May 2021 to Wednesday, 26 May 2021.
 
 APIO 2021 is organized by *IA TOKI*. IA TOKI is an association of former medalists of Indonesian National Olympiad in Informatics.
 It consists of university students, professionals, and educators.

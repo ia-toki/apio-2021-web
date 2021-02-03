@@ -20,6 +20,6 @@ key: links
 
 ### Previous IOIs
 
-- IOI 2021 - [https://ioi2020.sg](https://ioi2020.sg)
+- IOI 2020 - [https://ioi2020.sg](https://ioi2020.sg)
 - IOI 2019 - [https://ioi2019.az](https://ioi2019.az)
 - IOI 2018 - [https://ioi2018.jp](https://ioi2018.jp)
