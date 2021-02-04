@@ -16,7 +16,7 @@ Please note that there are significant changes in the Medal Distribution.
 ### Medal Distribution
 The medal awards are uniquely determined by the following rules:
 
-* Get a temporary ranking from up to six students of each country with the largest scores.
+* Get a temporary ranking from the top six students of each country.
 * From the temporary ranking, obtain the medal cut-offs by the following rules:
   * The largest score such that at least one-twelfth of all contestants from the temporary ranking is the gold cut-off.
   * The largest score such that at least one-fourth of all contestants from the temporary ranking is the silver cut-off.
