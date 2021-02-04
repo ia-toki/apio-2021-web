@@ -8,7 +8,7 @@ Please note that there are significant changes in the Medal Distribution.
 
 ### Contest Format
 * The APIO 2021 contest is a 5-hour contest with a flexible start time within a determined window.
-* The competition window will be held between Saturday, 22 May 2021 (01:00 UTC) to Monday, 24 May 2021 (01:00) UTC).
+* The competition window will be held between Saturday, 22 May 2021 (01:00 UTC) to Monday, 24 May 2021 (01:00 UTC).
 * Each country may consist of up to 60 students. However, only the top six students will form the official team, according to the contest results.
 * Each student starts the contest at the time of their own choice. The start and end times must be within the competition window. Different students from within the same country may start the contest at different times.
 * Students are eligible for this contest if and only if they are eligible for IOI 2021.
