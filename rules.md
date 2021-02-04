@@ -1,10 +1,10 @@
 ---
 layout: single-page-md
-title: APIO 2020 Competition Rules
+title: APIO 2021 Competition Rules
 key: rules
 ---
 
-These Competition Rules cover General, Problem Scoring, Contestant Scoring, Grading System, and Clarifications in APIO 2020.
+These Competition Rules cover General, Problem Scoring, Contestant Scoring, Grading System, and Clarifications in APIO 2021.
 Delegation Leaders have the responsibility of ensuring that all members of their delegation fully understand these rules and abide by them.
 
 <span style="color:red">**Please do not share the problems after the contest within 2 days since the competition is not held within the same time range.**</span>
@@ -13,11 +13,11 @@ Delegation Leaders have the responsibility of ensuring that all members of their
 
 ### A. General
 
-* APIO 2020 consists of **1 practice problemset** and **1 competition day**.
+* APIO 2021 consists of **1 practice problemset** and **1 competition day**.
 * Result of the practice problemset **does not** affect scoring.
 * There will be **3 (three) problems** on the competition day to be solved in **5 (five) hours**.
 * Each contestant may submit up to **50 submissions** for each problem.
-* The supported programming languages are **C++** and **Java**.
+* The supported programming language is **C++**.
 * During the competition, each contestant can only see their own scores.
 
 <br>
@@ -60,21 +60,7 @@ Delegation Leaders have the responsibility of ensuring that all members of their
 
 <br>
 
-### D. Grading System
-
-* Grading system similar to the public site [TLX](https://tlx.toki.id) will be used.
-* Source code limit for each submission is **300 KB**.
-* Contestants will get full feedback for each submission.
-* For each test case, the grader will output one of:
-  * **AC** (Accepted): program solved the problem within the given time and memory limits.
-  * **WA** (Wrong Answer): program stopped within given time and memory limits, but produced the wrong output.
-  * **RTE** (Runtime Error): program crashed or exceeded the memory limit.
-  * **TLE** (Time Limit Exceeded): program exceeded the time limit.
-  * Skipped: test case is not graded because there was a test case in the same subtask that was not solved.
-
-<br>
-
-### E. Clarification
+### D. Clarification
 
 * A contestant can submit a clarification request in English during the competition.
 * Clarification requests will be answered only in English with one of the following:
@@ -86,10 +72,10 @@ Delegation Leaders have the responsibility of ensuring that all members of their
 
 <br>
 
-### F. Submission and Access
+### E. Submission and Access
 
-* All submission from each contestant must be written by the contestant.
+* All submissions from each contestant must be written by the contestant.
 * Each contestant is allowed to use any code written before the competition, as long as the code is written by the contestant.
 * Each contestant is prohibited to talk or discuss anything related to the content of the competition with anyone, including other contestants, except to the committee of the competition using the clarification request explained in the earlier section.
 * Each contestant is allowed to use any sources of information on the Internet, as long as the contestant does not violate the previous rule. In particular, it is forbidden to copy-paste somebody else's code on the internet, or posting anything related to the content of the competition in an online forum.
-* For the sake of respecting fairness of this newly-introduced online contest format, each contestant is expected to show good sportsmanship by following the above rules honestly. Any violation of the rules can be subject to disqualification.
+* For the sake of respecting the fairness of this online contest format, each contestant is expected to show good sportsmanship by following the above rules honestly. Any violation of the rules can be subject to disqualification.

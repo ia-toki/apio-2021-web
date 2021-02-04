@@ -5,7 +5,7 @@ key: call-for-tasks
 ---
 
 The Asia-Pacific Informatics Olympiad (APIO) is an online IOI-like contest for the Asian and Western Pacific region.
-APIO 2021 will be held on TBC to TBC.
+APIO 2021 will be held on Saturday, 22 May 2021 to Sunday, 23 May 2021.
 The host of the APIO 2021 invites everyone in the programming contests community to submit tasks for the APIO 2021 competition.
 Guidelines for tasks and instructions for submission are given below.
 
@@ -33,7 +33,7 @@ A task submission must contain:
 
 * Statement in English, preferably formatted in PDF with required diagrams and pictures included.
 * Description of the desired solution (a description of an algorithm which should get full score).
-* Contact address (preferably one e-mail address) and background information on the task author(s): affiliation, country, and a description of the author’s role in the APIO or national olympiad, including training duties, over the period from APIO 2019 to APIO 2021.
+* Contact address (preferably one e-mail address) and background information on the task author(s): affiliation, country, and a description of the author’s role in the APIO or national olympiad, including training duties, over the period from APIO 2020 to APIO 2021.
 
 It is also strongly recommended to contain:
 
@@ -72,7 +72,7 @@ Authors of submitted tasks will be recognized on the APIO 2021 website by listin
 
 ### Summary
 
-* Submission deadline: TBC
+* Submission deadline: 14 March 2021
 * Language: English
 * Text format: PDF preferred
 * Multiple files for one task (e.g. diagrams, solution code): in a single zip or compressed tar archive
@@ -82,7 +82,7 @@ Authors of submitted tasks will be recognized on the APIO 2021 website by listin
   * task statement;
   * description of the desired solution.
 * Also recommended:
-  * solution implementations in C++ or Java;
+  * solution implementations in C++ (Java will not be supported in APIO 2021);
   * suggestions for grading;
   * test data;
   * alternate solutions or expected near-solutions;

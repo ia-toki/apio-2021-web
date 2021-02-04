@@ -1,11 +1,10 @@
 ---
 layout: single-page-md
-title: APIO 2020 Schedule
+title: APIO 2021 Schedule
 key: schedule
 ---
 
-The schedule is not exhaustive yet.
-The schedule for practice session, task translation, and result announcement is yet to be announced.
+The schedule is tentative and will be confirmed at a later date.
 
 <table>
   <thead>
@@ -17,51 +16,47 @@ The schedule for practice session, task translation, and result announcement is 
   <tbody>
     <tr>
       <td><a href="registration">Leader Confirmation Deadline</a></td>
-      <td>Friday, 13 March 2020</td>
+      <td>Sunday, 14 March 2021</td>
     </tr>
     <tr>
       <td><a href="call-for-tasks">Task Submission Deadline</a></td>
-      <td>Sunday, 15 March 2020</td>
+      <td>Sunday, 14 March 2021</td>
     </tr>
     <tr>
       <td><a href="registration">Participant List Registration Deadline</a></td>
-      <td>Thursday, 16 July 2020</td>
+      <td>Sunday, 25 April 2021</td>
     </tr>
     <tr>
-      <td>APIO 2020 Practice Session</td>
-      <td rowspan="3"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200807T08&p1=108">Friday, 7 August 2020 08:00</a>
-      - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200814T08&p1=108">Friday, 14 August 2020 08:00</a></td>
+      <td>APIO 2021 Practice Session</td>
+      <td rowspan="2"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210514T01&p1=1440">Friday, 14 May 2021 08:00</a>
+      - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210521T01&p1=1440">Friday, 21 May 2021 08:00</a></td>
     </tr>
     <tr>
-      <td>APIO 2020 Practice Session Task Translation</td>
+      <td>APIO 2021 Competition Task Translation</td>
     </tr>
     <tr>
-      <td>APIO 2020 Competition Task Translation</td>
+      <td>APIO 2021 Opening Ceremony</td>
+      <td>TBC</td>
     </tr>
     <tr>
-      <td>APIO 2020 Opening Ceremony</td>
-      <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200814T19&p1=108">Friday, 14 August 2020 19:00</a></td>
-    </tr>
-    <tr>
-      <td><b>APIO 2020 Competition Window</b></td>
-      <td><b><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200815T08&p1=108">Saturday, 15 August 2020 08:00</a>
-      - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200817T08&p1=108">Monday, 17 August 2020 08:00</a></b></td>
+      <td><b>APIO 2021 Competition Window</b></td>
+      <td><b><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Asia-Pacific+Informatics+Olympiad&iso=20210522T01&p1=1440">Saturday, 22 May 2021 08:00</a>
+      - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T01&p1=1440">Monday, 24 May 2021 08:00</a></b></td>
     </tr>
     <tr>
       <td>Unofficial Result</td>
-      <td>Monday, 17 August 2020</td>
+      <td>Monday, 17 August 2021</td>
     </tr>
     <tr>
       <td>Appeal</td>
-      <td rowspan="2"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200818T08&p1=108">Tuesday, 18 August 2020 08:00</a>
-        - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200820T08&p1=108">Thursday, 20 August 2020 08:00</a></td>
+      <td rowspan="2">TBC</td>
     </tr>
     <tr>
-      <td>APIO 2020 Open Contest</td>
+      <td>APIO 2021 Open Contest</td>
     </tr>
     <tr>
-      <td>APIO 2020 Closing Ceremony</td>
-      <td rowspan="3"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200821T19&p1=108">Friday, 21 August 2020 19:00</a></td>
+      <td>APIO 2021 Closing Ceremony</td>
+      <td rowspan="3">TBC</td>
     </tr>
     <tr>
       <td>Official Result</td>
