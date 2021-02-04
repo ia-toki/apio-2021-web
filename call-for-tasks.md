@@ -33,7 +33,7 @@ A task submission must contain:
 
 * Statement in English, preferably formatted in PDF with required diagrams and pictures included.
 * Description of the desired solution (a description of an algorithm which should get full score).
-* Contact address (preferably one e-mail address) and background information on the task author(s): affiliation, country, and a description of the author’s role in the APIO or national olympiad, including training duties, over the period from APIO 2019 to APIO 2021.
+* Contact address (preferably one e-mail address) and background information on the task author(s): affiliation, country, and a description of the author’s role in the APIO or national olympiad, including training duties, over the period from APIO 2020 to APIO 2021.
 
 It is also strongly recommended to contain:
 

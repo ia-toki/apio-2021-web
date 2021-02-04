@@ -1,10 +1,10 @@
 ---
 layout: single-page-md
-title: APIO 2020 Competition Rules
+title: APIO 2021 Competition Rules
 key: rules
 ---
 
-These Competition Rules cover General, Problem Scoring, Contestant Scoring, Grading System, and Clarifications in APIO 2020.
+These Competition Rules cover General, Problem Scoring, Contestant Scoring, Grading System, and Clarifications in APIO 2021.
 Delegation Leaders have the responsibility of ensuring that all members of their delegation fully understand these rules and abide by them.
 
 <span style="color:red">**Please do not share the problems after the contest within 2 days since the competition is not held within the same time range.**</span>
