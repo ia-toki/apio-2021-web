@@ -4,7 +4,7 @@ title: APIO 2021 Regulation
 key: regulation
 ---
 
-Please note that there are significant cahnges in the Medal Distribution.
+Please note that there are significant changes in the Medal Distribution.
 
 ### Contest Format
 * The APIO 2021 contest is a 5-hour contest with flexible start time within a determined window.
