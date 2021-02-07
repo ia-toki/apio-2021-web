@@ -4,7 +4,7 @@ title: APIO 2021 Competition Rules
 key: rules
 ---
 
-These Competition Rules cover General, Problem Scoring, Contestant Scoring, Grading System, and Clarifications in APIO 2021.
+These Competition Rules cover General, Problem Scoring, Contestant Scoring, and Clarifications in APIO 2021.
 Delegation Leaders have the responsibility of ensuring that all members of their delegation fully understand these rules and abide by them.
 
 <span style="color:red">**Please do not share the problems after the contest within 2 days since the competition is not held within the same time range.**</span>
@@ -30,9 +30,8 @@ Delegation Leaders have the responsibility of ensuring that all members of their
 * **Standard** scoring:
   * For batch and interactive problems:
     * A problem consists of **multiple subtasks** with various points.
-    * A subtask consists of **multiple test cases** that are grouped into some **test groups**.
-    * A submission gets a subtask's points if it solves **all of its test groups**.
-    * To solve a test group, a submission has to solve **all of its test cases**.
+    * A subtask consists of **multiple test cases**.
+    * A submission gets a subtask's points if it solves **all of its test cases**.
   * For output-only problems:
     * A problem consists of **multiple test cases** with various points.
     * A submission gets the test case's points if it produces the correct output.
