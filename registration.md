@@ -32,7 +32,7 @@ If you think that your country is eligible but has not been listed here, please 
 | Iran         | <span class="status-nc"></span> | Mohammad Ali Abam      |   |
 | Israel       | <span class="status-co"></span> | Ron Ryvchin            |   |
 | Japan        | <span class="status-co"></span> | Seiichi Tani           |   |
-| Jordan       | <span class="status-nc"></span> | Mowaffaq Hanandeh      |   |
+| Jordan       | <span class="status-co"></span> | Mowaffaq Hanandeh      |   |
 | Kazakhstan   | <span class="status-nc"></span> | Temirlan Satylkhanov   |   |
 | Korea        | <span class="status-co"></span> | Inbok Lee              |   |
 | Kuwait       | <span class="status-nc"></span> |                        |   |
