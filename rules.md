@@ -28,7 +28,7 @@ The following are the APIO 2021 Competition Rules. Delegation Leaders have the r
   * The zip file contains interface files, a sample grading program, and a skeleton implementation of a required source file.
   * The skeleton exercises an interface, but it does not solve the task.
   * The provided sample grader would not be the same as the official grader used by the grading system.
-* Each contestant may submit up to **50 submissions** for each task.
+* Each contestant may submit up to **50 submissions** for each task unless otherwise stated in the task statement.
 
 <br>
 
@@ -46,8 +46,8 @@ For example, consider a contestant who made two submissions on a task that conta
 
 ### D. Clarification
 
-* A contestant can submit a clarification request concerning competition tasks, rules, and/or grading submitted using the grading system during the competition.
-* Clarification requests may be expressed only in English and will be answered only in English.
+* A contestant can submit a clarification request concerning competition tasks, rules, and/or grading using the grading system during the competition.
+* Clarification requests must be expressed only in English and will be answered only in English.
 * Clarification requests concerning competition tasks will be answered with one of the following:
    * "YES"
    * "NO"
