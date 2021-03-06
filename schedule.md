@@ -49,7 +49,7 @@ The schedule is tentative and will be confirmed at a later date.
     </tr>
     <tr>
       <td>Appeal</td>
-      <td rowspan="2">TBC</td>
+      <td rowspan="2"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210525T01&p1=1440">Tuesday, 25 May 2021 01:00</a> - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210527T01&p1=1440">Thursday, 27 May 2021 01:00</a></td>
     </tr>
     <tr>
       <td>APIO 2021 Open Contest</td>
