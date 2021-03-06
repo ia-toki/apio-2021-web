@@ -68,6 +68,7 @@ For example, consider a contestant who made two submissions on a task that conta
   * "Execution killed (could be triggered by violating memory limits)"
   * "Execution failed because the return code was nonzero"
   * "Protocol violation"
+* For task with partial scores, the feedback might also include a "Output is partially correct" reason.
 * Submissions performing any of the following actions may result in an unspecified
 grading verdict (typically "Protocol violation"):
   * read from the standard input, write to the standard output, or interact with any other file,
