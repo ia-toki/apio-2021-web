@@ -22,14 +22,14 @@ If you think that your country is eligible but has not been listed here, please 
 | Armenia      | <span class="status-co"></span> | Armen Andreasyan       |   |
 | Australia    | <span class="status-co"></span> | Kevin Tran             |   |
 | Azerbaijan   | <span class="status-co"></span> | Ramin Mahmudzade       |   |
-| Bangladesh   | <span class="status-nc"></span> | M. Sohel Rahman        |   |
+| Bangladesh   | <span class="status-co"></span> | M. Sohel Rahman        |   |
 | China        | <span class="status-co"></span> | Hong Wang              |   |
 | Egypt        | <span class="status-co"></span> | Eslam Wageed           |   |
 | Georgia      | <span class="status-co"></span> | Zaza Gamezardashvili   |   |
 | Hong Kong    | <span class="status-co"></span> | Tony Wong              |   |
 | India        | <span class="status-co"></span> | Madhavan Mukund        |   |
 | Indonesia    | <span class="status-co"></span> | Felix Jingga           |   |
-| Iran         | <span class="status-nc"></span> | Mohammad Ali Abam      |   |
+| Iran         | <span class="status-co"></span> | Mohammad Ali Abam      |   |
 | Israel       | <span class="status-co"></span> | Ron Ryvchin            |   |
 | Japan        | <span class="status-co"></span> | Seiichi Tani           |   |
 | Jordan       | <span class="status-co"></span> | Mowaffaq Hanandeh      |   |
@@ -43,7 +43,7 @@ If you think that your country is eligible but has not been listed here, please 
 | New Zealand  | <span class="status-co"></span> | Tony Sun               |   |
 | Palestine    | <span class="status-co"></span> | Mousa Alrefaiyeh       |   |
 | Philippines  | <span class="status-co"></span> | Rafael P. Saldana      |   |
-| Russia       | <span class="status-nc"></span> | Andrey Stankevich      |   |
+| Russia       | <span class="status-co"></span> | Andrey Stankevich      |   |
 | Saudi Arabia | <span class="status-co"></span> | Sultan Albarakati      |   |
 | Singapore    | <span class="status-co"></span> | Suhendry Effendy       |   |
 | Sri Lanka    | <span class="status-co"></span> | Adithya Narasinghe     |   |
