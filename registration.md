@@ -50,7 +50,7 @@ If you think that your country is eligible but has not been listed here, please 
 | Syria        | <span class="status-co"></span> | Ubai Sandouk           |   |
 | Taiwan       | <span class="status-co"></span> | Hung-Lung Wang         |   |
 | Tajikistan   | <span class="status-co"></span> | Alexandr Ismatov       |   |
-| Thailand     | <span class="status-nc"></span> | Jittat Fakcharoenphol  |   |
+| Thailand     | <span class="status-co"></span> | Jittat Fakcharoenphol  |   |
 | Turkey       | <span class="status-co"></span> | Tolga Can              |   |
 | Turkmenistan | <span class="status-co"></span> | Kochek Arazow          |   |
 | Uzbekistan   | <span class="status-co"></span> | Akmal Ashirmatov       |   |
