@@ -6,6 +6,8 @@ key: rules
 
 The following are the APIO 2021 Competition Rules. Delegation Leaders have the responsibility of ensuring that all members of their delegation fully understand these rules and abide by them.
 
+<span style="color:red">**Java will not be supported in APIO 2021.**</span>
+
 <span style="color:red">**Please do not share the tasks after the contest within 2 days since the competition is not held within the same time range.**</span>
 
 <br>
@@ -25,9 +27,11 @@ The following are the APIO 2021 Competition Rules. Delegation Leaders have the r
 * The source program provided by the contestant must be contained in one source file as specified in the task statement.
 * Submissions must not perform explicit input and output operations; instead data must only be exchanged through the interfaces specified in the task statement.
 * For each programming task, the contestants can download a zip file for a programming task from the grading system.
-  * The zip file contains interface files, a sample grading program, and a skeleton implementation of a required source file.
+  * The zip file contains interface files, a sample grading program, a compile script, and a skeleton implementation of a required source file.
   * The skeleton exercises an interface, but it does not solve the task.
   * The provided sample grader would not be the same as the official grader used by the grading system.
+  * The provided compile script in the task attachment would not run the same compilation command as the one used by the grading system to accommodate various compiler implementations that contestants have.
+* Each contestant may submit a solution to each task at most once per minute. This restriction does not apply within 15 minutes before the end time of the contestant.
 * Each contestant may submit up to **50 submissions** for each task unless otherwise stated in the task statement.
 
 <br>
