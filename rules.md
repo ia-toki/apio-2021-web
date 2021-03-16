@@ -6,7 +6,7 @@ key: rules
 
 The following are the APIO 2021 Competition Rules. Delegation Leaders have the responsibility of ensuring that all members of their delegation fully understand these rules and abide by them.
 
-Important changes from APIO 2020 are marked in <span style="color:red">red</span>.
+<span style="color:red">**Java will not be supported in APIO 2021.**</span>
 
 <span style="color:red">**Please do not share the tasks after the contest within 2 days since the competition is not held within the same time range.**</span>
 
@@ -17,7 +17,7 @@ Important changes from APIO 2020 are marked in <span style="color:red">red</span
 * APIO 2021 consists of **1 practice problemset** and **1 competition day**.
 * Result of the practice problemset **does not** affect scoring.
 * There will be **3 (three) tasks** on the competition day to be solved in **5 (five) hours**.
-* The supported programming language is **C++** <span style="color:red">(Java will not be supported in APIO 2021)</span>.
+* The supported programming language is **C++**.
 * During the competition, each contestant can only see their own scores.
 
 <br>
