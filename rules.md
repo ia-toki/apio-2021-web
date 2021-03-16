@@ -30,8 +30,8 @@ The following are the APIO 2021 Competition Rules. Delegation Leaders have the r
   * The zip file contains interface files, a sample grading program, a compile script, and a skeleton implementation of a required source file.
   * The skeleton exercises an interface, but it does not solve the task.
   * The provided sample grader would not be the same as the official grader used by the grading system.
-  * The provided compile script in the task attachment might run a different compilation command to accommodate various compiler implementations that contestants have.
-* Each contestant may submit a solution to each task at most once per minute. This restriction does not apply in the last 15 minutes before the end time of the contestant.
+  * The provided compile script in the task attachment would not run the same compilation command as the one used by the grading system to accommodate various compiler implementations that contestants have.
+* Each contestant may submit a solution to each task at most once per minute. This restriction does not apply within 15 minutes before the end time of the contestant.
 * Each contestant may submit up to **50 submissions** for each task unless otherwise stated in the task statement.
 
 <br>
