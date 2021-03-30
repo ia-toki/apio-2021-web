@@ -45,15 +45,15 @@ The schedule is tentative and will be confirmed at a later date.
     </tr>
     <tr>
       <td>Unofficial Result</td>
-      <td>Monday, 24 May 2021</td>
+      <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T05&p1=1440">Monday, 24 May 2021 05:00</a></td>
     </tr>
     <tr>
       <td>Appeal</td>
-      <td>Tuesday, 25 May 2021</td>
+      <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T05&p1=1440">Monday, 24 May 2021 05:00</a> - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210525T05&p1=1440">Tuesday, 25 May 2021 05:00</a></td>
     </tr>
     <tr>
       <td>APIO 2021 Open Contest</td>
-      <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210525T01&p1=1440">Tuesday, 25 May 2021 01:00</a> - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210527T01&p1=1440">Thursday, 27 May 2021 01:00</a></td>
+      <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T05&p1=1440">Monday, 24 May 2021 05:00</a> - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210526T05&p1=1440">Wednesday, 26 May 2021 05:00</a></td>
     </tr>
     <tr>
       <td>APIO 2021 Closing Ceremony</td>
