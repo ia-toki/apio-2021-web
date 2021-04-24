@@ -36,7 +36,7 @@ The schedule is tentative and will be confirmed at a later date.
     </tr>
     <tr>
       <td>APIO 2021 Opening Ceremony</td>
-      <td>TBC</td>
+      <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210521T12&p1=1440">Friday, 21 May 2021 12:00</a></td>
     </tr>
     <tr>
       <td><b>APIO 2021 Competition Window</b></td>
@@ -57,7 +57,7 @@ The schedule is tentative and will be confirmed at a later date.
     </tr>
     <tr>
       <td>APIO 2021 Closing Ceremony</td>
-      <td rowspan="3">TBC</td>
+      <td rowspan="3"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210526T12&p1=1440">Wednesday, 26 May 2021 12:00</a></td>
     </tr>
     <tr>
       <td>Official Result</td>
