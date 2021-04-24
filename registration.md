@@ -19,12 +19,12 @@ If you think that your country is eligible but has not been listed here, please 
 
 | Country | Status | Leader | No. Participants |
 |---------|--------|--------|-----------------:|
-| Armenia      | <span class="status-cm"></span> | Armen Andreasyan       |   |
+| Armenia      | <span class="status-co"></span> | Armen Andreasyan       |   |
 | Australia    | <span class="status-co"></span> | Kevin Tran             |   |
 | Azerbaijan   | <span class="status-co"></span> | Ramin Mahmudzade       |   |
-| Bangladesh   | <span class="status-cm"></span> | M. Sohel Rahman        |   |
+| Bangladesh   | <span class="status-co"></span> | M. Sohel Rahman        |   |
 | China        | <span class="status-co"></span> | Hong Wang              |   |
-| Egypt        | <span class="status-cm"></span> | Eslam Wageed           |   |
+| Egypt        | <span class="status-co"></span> | Eslam Wageed           |   |
 | Georgia      | <span class="status-cm"></span> | Zaza Gamezardashvili   |   |
 | Hong Kong    | <span class="status-co"></span> | Tony Wong              |   |
 | India        | <span class="status-co"></span> | Madhavan Mukund        |   |
@@ -36,12 +36,12 @@ If you think that your country is eligible but has not been listed here, please 
 | Kazakhstan   | <span class="status-co"></span> | Temirlan Satylkhanov   |   |
 | Korea        | <span class="status-cm"></span> | Inbok Lee              |   |
 | Kuwait       | <span class="status-nc"></span> |                        |   |
-| Kyrgyzstan   | <span class="status-cm"></span> | Kylychbek Uraiymov     |   |
+| Kyrgyzstan   | <span class="status-co"></span> | Kylychbek Uraiymov     |   |
 | Macao        | <span class="status-cm"></span> | Michael Chan           |   |
 | Malaysia     | <span class="status-cm"></span> | Wei Xin Tan            |   |
 | Mongolia     | <span class="status-co"></span> | Danzan Tsedevsuren     |   |
 | New Zealand  | <span class="status-cm"></span> | Tony Sun               |   |
-| Palestine    | <span class="status-cm"></span> | Mousa Alrefaiyeh       |   |
+| Palestine    | <span class="status-co"></span> | Mousa Alrefaiyeh       |   |
 | Philippines  | <span class="status-co"></span> | Rafael P. Saldana      |   |
 | Russia       | <span class="status-co"></span> | Andrey Stankevich      |   |
 | Saudi Arabia | <span class="status-cm"></span> | Sultan Albarakati      |   |
@@ -52,7 +52,7 @@ If you think that your country is eligible but has not been listed here, please 
 | Tajikistan   | <span class="status-cm"></span> | Alexandr Ismatov       |   |
 | Thailand     | <span class="status-co"></span> | Nattee Niparnan        |   |
 | Turkey       | <span class="status-cm"></span> | Tolga Can              |   |
-| Turkmenistan | <span class="status-cm"></span> | Kochek Arazow          |   |
-| Uzbekistan   | <span class="status-cm"></span> | Bahodir Gulmatov       |   |
+| Turkmenistan | <span class="status-co"></span> | Kochek Arazow          |   |
+| Uzbekistan   | <span class="status-co"></span> | Bahodir Gulmatov       |   |
 | Vietnam      | <span class="status-co"></span> | Son Bao Pham           |   |
 |              |                                 | Total                  |   |
