@@ -53,6 +53,6 @@ If you think that your country is eligible but has not been listed here, please 
 | Thailand     | <span class="status-co"></span> | Jittat Fakcharoenphol  |   |
 | Turkey       | <span class="status-cm"></span> | Tolga Can              |   |
 | Turkmenistan | <span class="status-co"></span> | Kochek Arazow          |   |
-| Uzbekistan   | <span class="status-co"></span> | Akmal Ashirmatov       |   |
+| Uzbekistan   | <span class="status-co"></span> | Bahodir Gulmatov       |   |
 | Vietnam      | <span class="status-co"></span> | Son Bao Pham           |   |
 |              |                                 | Total                  |   |
