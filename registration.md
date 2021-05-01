@@ -43,10 +43,10 @@ If you think that your country is eligible but has not been listed here, please 
 | New Zealand  | <span class="status-cm"></span> | Tony Sun               | 12 |
 | Palestine    | <span class="status-co"></span> | Mousa Alrefaiyeh       |    |
 | Philippines  | <span class="status-cm"></span> | Rafael P. Saldana      | 30 |
-| Russia       | <span class="status-co"></span> | Andrey Stankevich      |    |
+| Russia       | <span class="status-co"></span> | Andrey Stankevich      | 60 |
 | Saudi Arabia | <span class="status-cm"></span> | Sultan Albarakati      | 12 |
 | Singapore    | <span class="status-cm"></span> | Suhendry Effendy       | 18 |
-| Sri Lanka    | <span class="status-co"></span> | Adithya Narasinghe     |    |
+| Sri Lanka    | <span class="status-co"></span> | Adithya Narasinghe     | 13 |
 | Syria        | <span class="status-cm"></span> | Ubai Sandouk           | 33 |
 | Taiwan       | <span class="status-cm"></span> | Hung-Lung Wang         | 11 |
 | Tajikistan   | <span class="status-cm"></span> | Alexandr Ismatov       |  5 |
