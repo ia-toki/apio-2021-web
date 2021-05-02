@@ -32,7 +32,7 @@ If you think that your country is eligible but has not been listed here, please 
 | Iran         | <span class="status-cm"></span> | Mohammad Ali Abam      | 27 |
 | Israel       | <span class="status-cm"></span> | Ron Ryvchin            | 50 |
 | Japan        | <span class="status-cm"></span> | Seiichi Tani           | 47 |
-| Jordan       | <span class="status-co"></span> | Mowaffaq Hanandeh      | 16 |
+| Jordan       | <span class="status-cm"></span> | Mowaffaq Hanandeh      | 16 |
 | Kazakhstan   | <span class="status-cm"></span> | Temirlan Satylkhanov   | 52 |
 | Korea        | <span class="status-cm"></span> | Inbok Lee              | 47 |
 | Kuwait       | <span class="status-nr"></span> |                        |    |
@@ -41,7 +41,7 @@ If you think that your country is eligible but has not been listed here, please 
 | Malaysia     | <span class="status-cm"></span> | Wei Xin Tan            | 14 |
 | Mongolia     | <span class="status-cm"></span> | Danzan Tsedevsuren     | 45 |
 | New Zealand  | <span class="status-cm"></span> | Tony Sun               | 12 |
-| Palestine    | <span class="status-co"></span> | Mousa Alrefaiyeh       |  5 |
+| Palestine    | <span class="status-cm"></span> | Mousa Alrefaiyeh       |  5 |
 | Philippines  | <span class="status-cm"></span> | Rafael P. Saldana      | 30 |
 | Russia       | <span class="status-co"></span> | Andrey Stankevich      | 60 |
 | Saudi Arabia | <span class="status-cm"></span> | Sultan Albarakati      | 12 |
