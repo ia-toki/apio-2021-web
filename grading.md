@@ -8,7 +8,13 @@ An instance of [Contest Management System (CMS)](http://cms-dev.github.io/) modi
 
 **Machine**
 
-- TBA
+Grading will be performed on Amazon Web Services' c5.metal Elastic Compute Cloud (EC2) instances with the following specifications:
+- OS: Ubuntu 20.04
+- Processor: Intel(R) Xeon(R) Platinum 8275CL
+  - Clock speed set to 2.7 GHz (Intel® Turbo Boost Technology disabled)
+  - Hyper-threading disabled
+  - 2 cache ways of the L3 cache dedicated to each CPU core used for grading
+- Each execution of a submission will be assigned to a separate physical CPU core
 
 **Compiler**
 
