@@ -35,13 +35,13 @@ If you think that your country is eligible but has not been listed here, please 
 | Jordan       | <span class="status-co"></span> | Mowaffaq Hanandeh      | 16 |
 | Kazakhstan   | <span class="status-cm"></span> | Temirlan Satylkhanov   | 52 |
 | Korea        | <span class="status-cm"></span> | Inbok Lee              | 47 |
-| Kuwait       | <span class="status-nc"></span> |                        |    |
+| Kuwait       | <span class="status-nr"></span> |                        |    |
 | Kyrgyzstan   | <span class="status-cm"></span> | Kylychbek Uraiymov     | 26 |
 | Macao        | <span class="status-cm"></span> | Michael Chan           | 34 |
 | Malaysia     | <span class="status-cm"></span> | Wei Xin Tan            | 14 |
 | Mongolia     | <span class="status-cm"></span> | Danzan Tsedevsuren     | 45 |
 | New Zealand  | <span class="status-cm"></span> | Tony Sun               | 12 |
-| Palestine    | <span class="status-co"></span> | Mousa Alrefaiyeh       |    |
+| Palestine    | <span class="status-co"></span> | Mousa Alrefaiyeh       |  5 |
 | Philippines  | <span class="status-cm"></span> | Rafael P. Saldana      | 30 |
 | Russia       | <span class="status-co"></span> | Andrey Stankevich      | 60 |
 | Saudi Arabia | <span class="status-cm"></span> | Sultan Albarakati      | 12 |
@@ -55,4 +55,4 @@ If you think that your country is eligible but has not been listed here, please 
 | Turkmenistan | <span class="status-cm"></span> | Kochek Arazow          | 12 |
 | Uzbekistan   | <span class="status-cm"></span> | Bahodir Gulmatov       | 16 |
 | Vietnam      | <span class="status-cm"></span> | Son Bao Pham           | 15 |
-|              |                                 | Total                  |   |
+|              |                                 | Total                  | 953|
