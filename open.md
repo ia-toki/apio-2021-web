@@ -15,7 +15,7 @@ You can register and participate for the open contest at [https://open.apio2021.
 
 ### Schedule
 
-The open contest will be held between [Monday, 24 May 2021 (05:00 UTC+0)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T05&p1=1440) and [Wednesday, 26 May 2021 (08:00 UTC+0)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210526T05&p1=1440).
+The open contest will be held between [Monday, 24 May 2021 (05:00 UTC+0)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T05&p1=1440) and [Wednesday, 26 May 2021 (05:00 UTC+0)](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210526T05&p1=1440).
 The duration of the contest is 5 hours.
 You can participate at any time within that window.
 Once the "Start!" button in the contest is pressed, your uninterrupted 5-hour time frame will be started.
