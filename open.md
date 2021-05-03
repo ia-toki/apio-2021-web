@@ -23,7 +23,7 @@ The result of the open contest will be available on this website after the closi
 
 ### Rules
 
-The rules of APIO 2021 Open Contest follow the rules of APIO 2021, except:
+The rules of APIO 2021 Open Contest follow [the rules of APIO 2021](/rules), except:
 
 * There will be no practice problemset.
 * A contestant cannot submit a clarification request.
