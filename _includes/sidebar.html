@@ -66,6 +66,14 @@
         <a href="/schedule.html">Schedule</a>
       </div>
       <div
+      class="bp3-tab"
+      role="tab"
+      aria-selected="{% if page.key == 'open' %}true{% else %}false{% endif %}"
+      >
+        <span class="bp3-icon-standard bp3-icon-duplicate sidebar-icon"></span>
+        <a href="/open.html">Open Contest</a>
+      </div>
+      <div
         class="bp3-tab"
         role="tab"
         aria-selected="{% if page.key == 'links' %}true{% else %}false{% endif %}"
