@@ -29,7 +29,7 @@ The schedule is tentative and will be confirmed at a later date.
     <tr>
       <td>APIO 2021 Practice Session</td>
       <td rowspan="2"><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210514T01&p1=1440">Friday, 14 May 2021 01:00</a>
-      - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210521T01&p1=1440">Friday, 21 May 2021 01:00</a></td>
+      — <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210521T01&p1=1440">Friday, 21 May 2021 01:00</a></td>
     </tr>
     <tr>
       <td>APIO 2021 Competition Task Translation</td>
@@ -41,7 +41,7 @@ The schedule is tentative and will be confirmed at a later date.
     <tr>
       <td><b>APIO 2021 Competition Window</b></td>
       <td><b><a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=Asia-Pacific+Informatics+Olympiad&iso=20210522T01&p1=1440">Saturday, 22 May 2021 01:00</a>
-      - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T01&p1=1440">Monday, 24 May 2021 01:00</a></b></td>
+      — <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T01&p1=1440">Monday, 24 May 2021 01:00</a></b></td>
     </tr>
     <tr>
       <td>Unofficial Result</td>
@@ -49,11 +49,11 @@ The schedule is tentative and will be confirmed at a later date.
     </tr>
     <tr>
       <td>Appeal</td>
-      <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T05&p1=1440">Monday, 24 May 2021 05:00</a> - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210525T05&p1=1440">Tuesday, 25 May 2021 05:00</a></td>
+      <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T05&p1=1440">Monday, 24 May 2021 05:00</a> — <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210525T05&p1=1440">Tuesday, 25 May 2021 05:00</a></td>
     </tr>
     <tr>
       <td>APIO 2021 Open Contest</td>
-      <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T05&p1=1440">Monday, 24 May 2021 05:00</a> - <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210526T05&p1=1440">Wednesday, 26 May 2021 05:00</a></td>
+      <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210524T05&p1=1440">Monday, 24 May 2021 05:00</a> — <a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210526T05&p1=1440">Wednesday, 26 May 2021 05:00</a></td>
     </tr>
     <tr>
       <td>APIO 2021 Closing Ceremony</td>
