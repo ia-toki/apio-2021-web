@@ -40,7 +40,7 @@ If you think that your country is eligible but has not been listed here, please 
 | Macao        | <span class="status-cm"></span> | Michael Chan           | 34 |
 | Malaysia     | <span class="status-cm"></span> | Wei Xin Tan            | 14 |
 | Mongolia     | <span class="status-cm"></span> | Danzan Tsedevsuren     | 45 |
-| New Zealand  | <span class="status-cm"></span> | Tony Sun               | 12 |
+| New Zealand  | <span class="status-cm"></span> | Tony Sun               | 13 |
 | Palestine    | <span class="status-cm"></span> | Mousa Alrefaiyeh       |  5 |
 | Philippines  | <span class="status-cm"></span> | Rafael P. Saldana      | 30 |
 | Russia       | <span class="status-cm"></span> | Andrey Stankevich      | 60 |
@@ -55,4 +55,4 @@ If you think that your country is eligible but has not been listed here, please 
 | Turkmenistan | <span class="status-cm"></span> | Kochek Arazow          | 12 |
 | Uzbekistan   | <span class="status-cm"></span> | Bahodir Gulmatov       | 16 |
 | Vietnam      | <span class="status-cm"></span> | Son Bao Pham           | 15 |
-|              |                                 | Total                  | 953|
+|              |                                 | Total                  | 954|
