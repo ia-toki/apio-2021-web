@@ -35,6 +35,10 @@ The schedule is tentative and will be confirmed at a later date.
       <td>APIO 2021 Competition Task Translation</td>
     </tr>
     <tr>
+      <td>Leaders Meeting</td>
+      <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210521T07&p1=1440">Friday, 21 May 2021 07:00</a></td>
+    </tr>
+    <tr>
       <td>APIO 2021 Opening Ceremony</td>
       <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210521T12&p1=1440">Friday, 21 May 2021 12:00</a></td>
     </tr>
