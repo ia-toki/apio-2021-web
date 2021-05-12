@@ -55,4 +55,4 @@ If you think that your country is eligible but has not been listed here, please 
 | Turkmenistan | <span class="status-cm"></span> | Kochek Arazow          | 12 |
 | Uzbekistan   | <span class="status-cm"></span> | Bahodir Gulmatov       | 16 |
 | Vietnam      | <span class="status-cm"></span> | Son Bao Pham           | 15 |
-|              |                                 | Total                  | 953|
+|              |                                 | Total                  | 952|
