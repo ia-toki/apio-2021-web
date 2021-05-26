@@ -4,11 +4,29 @@ title: Open Contest Results
 key: open-results
 ---
 
+<form>
+  <label for="filter">Filter By Team: </label>
+  <select id="filter" style="width:auto">
+  </select>
+</form>
 <table id="results"></table>
 
 <script>
+  const country_index = 1;
+  const medal_index = 3;
   var data = [];
   var table_el = document.getElementById("results");
+  var filter_el = document.getElementById("filter");
+  var countries = [ "All Teams" ];
+  
+  function onlyUnique(value, index, self) { 
+    return self.indexOf(value) === index;
+  }
+
+  function populateCountries() {
+    countries = countries.concat(data.map(c => c[country_index])
+                .slice(1).filter(onlyUnique).sort());
+  }
   
   function h (parent, tag) {
     var el = document.createElement(tag);
@@ -39,6 +57,24 @@ key: open-results
     return lines;
   }
 
+  function onFilterChange(e) {
+    populateTable(
+      table_el, 
+      [data[0]].concat(data.slice(1).filter(c => 
+        e.target.value === "All Teams"
+        || e.target.value === c[country_index]))
+    );
+  }
+
+  function populateFilter() {
+    filter_el.addEventListener("change", onFilterChange);
+    for (var i = 0; i<countries.length; i++) {
+      var option = h(filter_el, "option");
+      option.textContent = countries[i];
+      option.value = countries[i];
+    }
+  }
+
   function populateTable(table, data) {
     table.innerHTML = "";
     var thead = h(table, "thead");
@@ -50,6 +86,8 @@ key: open-results
     var tbody = h(table, "tbody");
     for (var i=1; i<data.length; i++) {
       var tbody_tr = h(tbody, "tr");
+      tbody_tr.classList.add("medal");
+      tbody_tr.classList.add("medal-" + data[i][medal_index].toLowerCase().replace(" ", "_"));
       for (var j=0; j<data[i].length; j++) {
         var td = h(tbody_tr, "td");
         td.textContent = data[i][j];
@@ -59,6 +97,8 @@ key: open-results
 
   httpGetAsync("/open-results.tsv", function(allText) {
     data = processCSV(allText);
+    populateCountries();
+    populateFilter();
     populateTable(table_el, data);
   });
 </script>
