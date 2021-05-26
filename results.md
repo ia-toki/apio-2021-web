@@ -7,7 +7,7 @@ key: results
 The official results was announced on the [closing ceremony](/closing.html).
 
 <form>
-  <label for="filter">Filter By Country: </label>
+  <label for="filter">Filter By Team: </label>
   <select id="filter" style="width:auto">
   </select>
 </form>
@@ -19,7 +19,7 @@ The official results was announced on the [closing ceremony](/closing.html).
   var data = [];
   var table_el = document.getElementById("results");
   var filter_el = document.getElementById("filter");
-  var countries = [ "All Countries" ];
+  var countries = [ "All Teams" ];
   
   function onlyUnique(value, index, self) { 
     return self.indexOf(value) === index;
@@ -63,7 +63,7 @@ The official results was announced on the [closing ceremony](/closing.html).
     populateTable(
       table_el, 
       [data[0]].concat(data.slice(1).filter(c => 
-        e.target.value === "All Countries" 
+        e.target.value === "All Teams"
         || e.target.value === c[country_index]))
     );
   }
