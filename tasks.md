@@ -6,35 +6,28 @@ key: tasks
 
 ### Competition Tasks
 
-* Notice ([Official English](assets/statements/notice.pdf))
-  * [Translated notice statements](assets/statements/notice.zip)
+* Notice ([Official English](https://github.com/ia-toki/apio-2021-statements/blob/master/notice/en.pdf))
+  * [Translated notice statements](https://github.com/ia-toki/apio-2021-statements/tree/master/notice)
 
-* Hexagonal Territory ([Official English](assets/statements/hexagon.pdf))
+* Hexagonal Territory ([Official English](https://github.com/ia-toki/apio-2021-statements/blob/master/hexagon/en.pdf))
   * Author: Wiwit Rifa'i
-  * [Translated task statements](assets/statements/hexagon.zip)
-  * [Test data, solutions, and supplementary materials](assets/materials/hexagon.zip)
+  * [Translated task statements](https://github.com/ia-toki/apio-2021-statements/tree/master/hexagon)
+  * [Test data, solutions, and supplementary materials](https://github.com/ia-toki/apio-2021/tree/master/hexagon)
   
-* Rainforest Jumps ([Official English](assets/statements/jumps.pdf))
+* Rainforest Jumps ([Official English](https://github.com/ia-toki/apio-2021-statements/blob/master/jumps/en.pdf))
   * Author: Benson Lin Zhan Li
-  * [Translated task statements](assets/statements/jumps.zip)
-  * [Test data, solutions, and supplementary materials](assets/materials/jumps.zip)
+  * [Translated task statements](https://github.com/ia-toki/apio-2021-statements/tree/master/jumps)
+  * [Test data, solutions, and supplementary materials](https://github.com/ia-toki/apio-2021/tree/master/jumps)
 
-* Road Closures ([Official English](assets/statements/roads.pdf))
+* Road Closures ([Official English](https://github.com/ia-toki/apio-2021-statements/blob/master/roads/en.pdf))
   * Author: Jatin Yadav
-  * [Translated task statements](assets/statements/roads.zip)
-  * [Test data, solutions, and supplementary materials](assets/materials/roads.zip)
+  * [Translated task statements](https://github.com/ia-toki/apio-2021-statements/tree/master/roads)
+  * [Test data, solutions, and supplementary materials](https://github.com/ia-toki/apio-2021/tree/master/roads)
 
 ### Other Materials and Information
 
 * [Problem discussion](assets/APIO_2021_Problem_Discussions.pdf)
 * [Upsolving on TLX platform](https://tlx.toki.id/problems/apio-2021)
-* These are the limits used during the main competition:
-
-| Task    | Name                | Time Limit    | Memory Limit |
-| ------- | ------------------- | ------------- | ------------ |
-| hexagon | Hexagonal Territory | 2.000 seconds | 1.00 GiB     |
-| jumps   | Rainforest Jumps    | 3.000 seconds | 1.00 GiB     |
-| roads   | Road Closures       | 1.000 seconds | 1.00 GiB     |
 
 ### List of Authors
 
